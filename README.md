@@ -1,5 +1,5 @@
 # luci-app-apnweb-for-opkg-and-apk
-# luci-app-apnweb is a graphical interface integrated into LuCI for APN configuration on OpenWrt routers equipped with a cellular modem. Accessible directly from the Network → APN Configuration menu, it allows you to set up and manage mobile data connections without manually editing configuration files.
+luci-app-apnweb is a graphical interface integrated into LuCI for APN configuration on OpenWrt routers equipped with a cellular modem. Accessible directly from the Network → APN Configuration menu, it allows you to set up and manage mobile data connections without manually editing configuration files.
 
 # Supports three connection modes:
 
