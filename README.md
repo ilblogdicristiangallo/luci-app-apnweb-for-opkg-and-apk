@@ -22,7 +22,7 @@ The new version completely redesigns the user experience with a **guided 5-step 
 The first step lets you choose between Italian and English. The whole interface will be translated automatically.
 
 <div align="center">
-  <img src="APN-WEB-Screen.png" alt="Language selection" width="600" style="height: auto;">
+  <img src="https://github.com/ilblogdicristiangallo/luci-app-apnweb-for-opkg-and-apk/blob/main/Screenshot/APN-WEB-Screen.png?raw=true" alt="Language selection" width="600" style="height: auto;">
 </div>
 
 ---
@@ -31,7 +31,7 @@ The first step lets you choose between Italian and English. The whole interface 
 After selecting the language, choose the cellular connection mode compatible with your router and modem.
 
 <div align="center">
-  <img src="APN-WEB-Screen2.png" alt="Mode selection" width="600" style="height: auto;">
+  <img src="https://github.com/ilblogdicristiangallo/luci-app-apnweb-for-opkg-and-apk/blob/main/Screenshot/APN-WEB-Screen2.png?raw=true" alt="Mode selection" width="600" style="height: auto;">
 </div>
 
 ---
@@ -40,7 +40,7 @@ After selecting the language, choose the cellular connection mode compatible wit
 Select your country from the European list and choose your mobile operator (MNO or MVNO). All APN parameters will be auto-filled.
 
 <div align="center">
-  <img src="APN-WEB-Screen3.png" alt="Country and operator selection" width="600" style="height: auto;">
+  <img src="https://github.com/ilblogdicristiangallo/luci-app-apnweb-for-opkg-and-apk/blob/main/Screenshot/APN-WEB-Screen3.png?raw=true" alt="Country and operator selection" width="600" style="height: auto;">
 </div>
 
 ---
@@ -84,5 +84,8 @@ Download the latest version from the [Releases page](https://github.com/ilblogdi
 👉 **[ilblogdicristiangallo OpenWrt Repository](https://github.com/ilblogdicristiangallo/ilblogdicristiangallo_repo_openwrt_APK)**
 
 ### For OpenWrt 25.x (APK)
-```sh
+
 apk add --allow-untrusted luci-app-apnweb
+
+# 🧑‍💻 Author
+Made with ❤️ by ilblogdicristiangallo
